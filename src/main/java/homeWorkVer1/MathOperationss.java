@@ -1,3 +1,5 @@
+package homeWorkVer1;
+
 public class MathOperationss {
 
     public static void main(String[] args) {
