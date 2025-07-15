@@ -23,5 +23,11 @@ public class Main {
 
         kolya.setAge(21);
         System.out.println("Happy birthday Kolya! Now you are " + kolya.age + " years old!");
+
+
+
+        // DEBUG
+        // программа останавливается ПЕРЕД брейкпоинтом
+
     }
 }
